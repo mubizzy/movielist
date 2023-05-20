@@ -4,7 +4,7 @@ A new Flutter project.
 
 ### Scrrenshot
 
-movie.PNG
+<img src="movie.PNG"/>
 
 This project is a starting point for a Flutter application.
 
